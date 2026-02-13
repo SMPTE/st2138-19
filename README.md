@@ -20,3 +20,13 @@ The following elements are made available for a public review period ending no e
 ## Details
 
 {PCD announcement}
+
+## Additional Elements
+Interface Definitions based on the model shown in this document are companion elements to this document. These can be found in the public repository covering all parts of the 2138 suite of documents at the following URL: <a href="https://github.com/SMPTE/st2138-a.git">https://github.com/SMPTE/st2138-a.git</a>
+
+Navigate to the /interface/proto folder for the interface definitions in Protobuf 3.0. 
+
+The schemata can be found at /interface/schemata/device.yaml, but are published at the following URL: <a href="https://github.com/SMPTE/st2138-a/blob/main/interface/schemata/device.yaml">https://github.com/SMPTE/st2138-a/blob/main/interface/schemata/device.yaml</a>, which is also the $id tag for the schemata. 
+
+The contents of st2138-a.git are normative.
+The software version corresponding to this document revision is tagged as v1.0.0-pcd.
